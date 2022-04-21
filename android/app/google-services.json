@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396725538542",
+    "project_id": "mininews-16ac6",
+    "storage_bucket": "mininews-16ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396725538542:android:a823c707a69f492aa5edff",
+        "android_client_info": {
+          "package_name": "com.example.mininews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396725538542-r14kvmsh991ri0mf18osn7ndroslui5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mininews",
+            "certificate_hash": "141d7d3b21d49c19454374749cdb3ea5e0935c60"
+          }
+        },
+        {
+          "client_id": "396725538542-inpg1bddel02kel696gadcv2uu778h58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78WrFJ1NQa1TK96tksIF02INZBmCd5jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396725538542-inpg1bddel02kel696gadcv2uu778h58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
